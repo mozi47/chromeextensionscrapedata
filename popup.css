@@ -1,0 +1,27 @@
+body{
+    min-width:300px;
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 1.3rem;
+    color:#052b53;
+    font-weight: bold;
+}
+
+button{
+    border: none;
+    outline: none;
+    color: #ffffff;
+    background-color: #052b53;
+    padding: 10px;
+    display: block;
+    cursor: pointer;
+}
+
+
+
